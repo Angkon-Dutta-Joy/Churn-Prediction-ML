@@ -52,7 +52,7 @@ This repository contains a machine learning project aimed at predicting customer
 - Explore customer sentiment data for better predictions.
 - Optimize hyperparameters further for improved accuracy.
 
-## 🤝 Contributing
+## 🤝 Contribute
 Feel free to contribute by forking the repository and submitting pull requests.
 
 ## 📜 License
